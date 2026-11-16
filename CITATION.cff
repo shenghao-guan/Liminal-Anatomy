@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you refer to this research, please cite the thesis project."
+title: "Liminal Anatomy: Decoding the Shared Perception of Indeterminacy"
+type: generic
+authors:
+  - family-names: Guan
+    given-names: Shenghao
+date-released: 2026-11-16
+url: "https://github.com/BananaGSH/Liminal-Anatomy"
+repository-code: "https://github.com/BananaGSH/Liminal-Anatomy"
+abstract: "A University of Toronto MArch thesis project exploring liminal spaces, psychological perception, architectural atmospheres, and the TSEP framework."
