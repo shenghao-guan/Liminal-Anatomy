@@ -5,7 +5,13 @@
 
 *An architectural inquiry into liminal spaces, psychological perception, and digital aesthetics.*
 
-> **Publication status:** This public repository currently presents a research overview. The full illustrated thesis and additional figures are being reviewed for third-party image rights and participant permissions before upload.
+> **Publication status:** The complete illustrated thesis PDF is publicly available in this repository. Embedded third-party images and documentation of research activities retain their respective rights and restrictions; see [RIGHTS.md](RIGHTS.md).
+
+## Read the full thesis
+
+**[📄 View or download the complete MArch thesis (PDF)](https://github.com/shenghao-guan/Liminal-Anatomy/blob/main/Shenghao%20Guan%20-%20Liminal%20Anatomy.pdf)**
+
+*Liminal Anatomy: Decoding the Shared Perception of Indeterminacy* · Shenghao Guan · University of Toronto · 2026
 
 ## Overview
 
