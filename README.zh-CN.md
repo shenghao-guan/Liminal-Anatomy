@@ -18,6 +18,10 @@
 - **Kit of Parts**：用于构建与调整阈限氛围的设计元素与方法。
 - **The Liminal Box**：通过互动装置探索参与者对空间变化的感知，包含 Office 和 Playroom 两个场景。
 
-本仓库目前公开研究简介。完整图文论文包含第三方图片及活动记录，待核查版权和参与者公开许可后再考虑上传。
+## 阅读完整论文
+
+**[📄 查看或下载硕士论文 PDF](https://github.com/shenghao-guan/Liminal-Anatomy/blob/main/Shenghao%20Guan%20-%20Liminal%20Anatomy.pdf)**
+
+本仓库现已公开完整图文论文。论文包含电影、游戏、网络图片及研究活动记录等第三方素材；公开供学术阅读不代表授权转载或二次使用，详情见 [版权说明](RIGHTS.md)。
 
 [English README](README.md) · [版权说明](RIGHTS.md)
